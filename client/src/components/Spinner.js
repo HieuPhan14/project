@@ -11,12 +11,3 @@ function Spinner() {
                     <div className="circle"></div>
                 </div><div className="circle-clipper right">
                     <div className="circle"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-   
-  )
-}
-
-export default Spinner
